@@ -356,7 +356,7 @@ We benchmarked 3 frontier LLMs (Claude, ChatGPT, Gemini) on 7 realistic editing 
 - Gemini hallucinated line numbers by up to 73 lines on a 3-step edit chain.
 - Models that succeeded with fedit consistently used the recon, content-match, verify pattern.
 
-Full results: https://amalexhandler.com/fedit#benchmark
+Full results: https://www.amalexhandler.com/opensource/fedit#benchmark
 
 ## Reference
 

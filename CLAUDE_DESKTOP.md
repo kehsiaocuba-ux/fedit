@@ -366,7 +366,7 @@ Restart the editor after saving.
 
 ## 10. Source & changelog
 
-- Repo: https://github.com/amalexico/fedit  
+- Repo: https://github.com/kehsiaocuba-ux/fedit  
 - v1.5.0 release notes: HCL/Terraform + Nix block scanners, 333 tests  
 - v1.6.0 release notes: `-texthex`, `writeraw`, `writelines`, `-cleanfirst`, `-x` (machine-readable find/fields)
 - v1.7.0 release notes: `-raw` on show, `-extract`/`-get`/`-wdelim` (sub-line extraction), `-block`/`-lang` on replace/insertbefore/insertafter, BOM strip  

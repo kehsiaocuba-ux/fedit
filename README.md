@@ -11,7 +11,7 @@ Built for sysadmins, DevOps engineers, and anyone who scripts config changes.
 ![fedit demo](demo.gif)
 
 ```
-go install github.com/amalexico/fedit@latest
+go install github.com/kehsiaocuba-ux/fedit@latest
 ```
 
 ---
@@ -33,10 +33,10 @@ go install github.com/amalexico/fedit@latest
 
 **Go install (recommended):**
 ```bash
-go install github.com/amalexico/fedit@latest
+go install github.com/kehsiaocuba-ux/fedit@latest
 ```
 
-Or download the binary from [GitHub Releases](https://github.com/amalexico/fedit/releases) and put it in your PATH.
+Or download the binary from [GitHub Releases](https://github.com/kehsiaocuba-ux/fedit/releases) and put it in your PATH.
 
 **Verify:**
 ```bash
@@ -938,7 +938,7 @@ and was the path Claude consistently took when it had recon available.
 
 7 synthetic files (565-1206 lines) covering Go, YAML, CSS, Python, and HTML.
 Full results, ground truth files, test prompts and the 7-file corpus:
-[amalexhandler.com/fedit#benchmark](https://amalexhandler.com/fedit#benchmark).
+[www.amalexhandler.com/opensource/fedit#benchmark](https://www.amalexhandler.com/opensource/fedit#benchmark).
  
 ## MCP Server Mode
 
@@ -1087,4 +1087,4 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-Built by [Amalex](https://amalexhandler.com) — makers of Amalex Handler, the universal file transporter.
+Built by Alejandro Castaneda. Free and open source under the MIT license.
